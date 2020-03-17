@@ -63,7 +63,7 @@ Convolution using 512 filters + Max pooling<br>
 Fully connected with 4096 nodes<br>
 Fully connected with 4096 nodes<br>
 Output layer with Softmax activation with 1000 nodes<br>
-Full view at image level:
+#### Full view at image level:
 
-![Couldn't find image!](https://github.com/aitikgupta/violence_detection/blob/master/Screenshots/Network/network1.png)
+![Couldn't find image!](https://github.com/aitikgupta/violence_detection/blob/master/Screenshots/Network/network2.png)
 
